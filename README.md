@@ -1,4 +1,4 @@
-# a Covid-19 India Survey
+# A Covid-19 India Survey
 A simple Covid-19 Survey API rendered using React
 
 # Demo
