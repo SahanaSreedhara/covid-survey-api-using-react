@@ -1,0 +1,87 @@
+html,
+body {
+  margin: 0;
+  background-color: #F8ECD1;
+}
+
+.head {
+  justify-content: space-between;
+  display: flex;
+  padding: 20px 25px 5px 20px;
+}
+
+.covid-logo {
+  width: 150px;
+  height: 100px;
+}
+
+.grid-div {
+  justify-content: center;
+}
+
+.grid-row {
+  display: flex;
+  margin: auto;
+  margin-bottom: 20px;
+  width: 60%;
+  justify-content: space-around;
+}
+
+.individual-grid {
+  background: #a0597f;
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 10px;
+  text-align: center;
+  width: 170px;
+
+}
+
+.grid-heading {
+  margin-top: 0;
+  
+}
+
+.grid-value-div {
+  background: #DEB6AB;
+  border: 1px solid transparent;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 80px;
+}
+
+.grid-value-div h3 {
+  padding: 0px 5px;  
+}
+
+table {
+  width: 60%;
+  margin: auto;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 10px;
+}
+
+table,
+th,
+td,
+thead {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th{
+  background: #A0BCC2;
+}
+
+td{
+  background: #DAE5D0;
+}
+
+footer{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  width: 60%;
+    margin: auto;
+}
